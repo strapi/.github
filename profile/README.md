@@ -12,11 +12,11 @@ We strive every day to create the best Open-Source and Self-Hosted Headless CMS 
 
 Design APIs fast, manage content easily.
 
-- [Strapi](https://github.com/strapi/strapi) 
-- [Strapi Design System](https://github.com/strapi/parts) 
-- [Strapi Docker](https://github.com/strapi/strapi-docker)
-- [Strapi Official Demo app](https://github.com/strapi/foodadvisor)
-- [Strapi RFCs](https://github.com/strapi/rfcs)
+- [Strapi](https://github.com/strapi/strapi) - Strapi codebase.
+- [Strapi Design System](https://github.com/strapi/parts) - Strapi React components library.
+- [Strapi Docker](https://github.com/strapi/strapi-docker) - Strapi containerized.
+- [FoodAdvisor](https://github.com/strapi/foodadvisor) - Strapi Official demo application using Strapi + Next.js.
+- [Strapi RFCs](https://github.com/strapi/rfcs) - Request For Comments repository help us create consensus among the core team and include as much feedback as possible from the community, for these upcoming changes.
 
 [See more repositories](https://github.com/orgs/strapi/repositories)
 
@@ -25,7 +25,7 @@ Design APIs fast, manage content easily.
 Get involved with a vibrant community of users and contributors. Check out what others have built with Strapi, start learning by going through Strapi tutorials or get involved as a contributor.
 
 - [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
-- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members
+- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
 - [Community Content](https://github.com/strapi/community-content) - Discover the [showcase](https://github.com/strapi/community-content/tree/master/showcase), [tutorials](https://github.com/strapi/community-content/tree/master/tutorials), [starters](https://github.com/strapi/community-content/tree/master/starters), [templates](https://github.com/strapi/community-content/tree/master/templates) anyone can contribute to.
 - [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
 
