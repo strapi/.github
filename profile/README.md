@@ -1,6 +1,6 @@
 ## Hello 👋
 
-![An illustration showing the Strapi logo and some confetti.](./banner.png)
+![An illustration showing the Strapi logo and some confetti.](https://assets.strapi.io/uploads/banner_9195d221ac.png)
 
 Strapi's story started on Github on October 1, 2015. Since this first commit, +16,500 others followed, more than 5,000 issues have been opened and more than 4,800 pull requests were created 🤯 The majority of [milestones associated pull requests](https://github.com/strapi/strapi/milestones) come from the Strapi community and we can't be more proud of it 🙏
 
