@@ -6,7 +6,7 @@ Strapi's story started on Github on October 1, 2015. Since this first commit, +1
 
 We strive every day to create the best Open-Source and Self-Hosted Headless CMS to allow Developers as well as Content Creators to Unleash Content 💪
 
-[See our roadmap](https://portal.productboard.com/strapi/1-roadmap/tabs/2-under-consideration)
+[See our roadmap](https://feedback.strapi.io/)
 
 ### 🚀 Strapi
 
