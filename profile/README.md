@@ -1,12 +1,12 @@
 ## Hello 👋
 
-![An illustration showing the Strapi logo and some confetti.](https://assets.strapi.io/uploads/banner_9195d221ac.png)
+![An illustration showing the Strapi logo and some confetti.](https://user-images.githubusercontent.com/6065744/196660074-997da129-3760-4e4a-afc5-770602aa2a97.png)
 
 Strapi's story started on Github on October 1, 2015. Since this first commit, +16,500 others followed, more than 5,000 issues have been opened and more than 4,800 pull requests were created 🤯 The majority of [milestones associated pull requests](https://github.com/strapi/strapi/milestones) come from the Strapi community and we can't be more proud of it 🙏
 
 We strive every day to create the best Open-Source and Self-Hosted Headless CMS to allow Developers as well as Content Creators to Unleash Content 💪
 
-[See our roadmap](https://portal.productboard.com/strapi/1-roadmap/tabs/2-under-consideration)
+[See our roadmap](https://feedback.strapi.io/)
 
 ### 🚀 Strapi
 
