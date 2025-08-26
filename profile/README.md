@@ -17,7 +17,7 @@ Design APIs fast, manage content easily.
 - [Strapi](https://github.com/strapi/strapi) - Strapi codebase.
 - [Strapi Design System](https://github.com/strapi/parts) - Strapi React components library.
 - [Strapi Docker](https://github.com/strapi/strapi-docker) - Strapi containerized.
-- [FoodAdvisor](https://github.com/strapi/foodadvisor) - Strapi Official demo application using Strapi + Next.js.
+- [LaunchPad](https://github.com/strapi/LaunchPad) - Strapi Official demo application using Strapi + Next.js.
 - [Strapi RFCs](https://github.com/strapi/rfcs) - Request For Comments repository help us create consensus among the core team and include as much feedback as possible from the community, for these upcoming changes.
 
 [See more repositories](https://github.com/orgs/strapi/repositories)
